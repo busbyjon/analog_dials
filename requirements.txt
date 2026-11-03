@@ -4,7 +4,7 @@ gpiozero==1.5.1
 isort==4.3.21
 lazy-object-proxy==1.4.3
 mccabe==0.6.1
-pylint==2.4.4
+pylint==4.0.9
 pythonping==1.0.9
 schedule==0.6.0
 six==1.14.0
